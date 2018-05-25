@@ -1,0 +1,35 @@
+﻿Đề thi Toán Chuyên Đề KSTN CNTT K58 - Tóm tắt
+---------------------------------------------
+
+GIỮA KỲ
+- Bài 1, 2 tương tự như trong folder DeThi\GiuaKy
+- Bài 3 tương tự bài Bloom Filter trong folder DeThi\CuoiKy
+
+CUỐI KỲ
+- Bài 1: P2P
+<<đề không nhớ rõ, đại khái là:>>
+Các sinh viên K56 sắp ra trường tạo 100 peer để chia sẻ tài liệu.
+1 khóa có nhiều nhất 10000 sinh viên
+1 sinh viên hoặc 1 cựu sinh viên có thể upload nhiều nhất 100 tài liệu
+Sử dụng bảng băm.
+
+a/ Xác định kích thước bảng băm
+---> Chú ý: BK nhiều nhất bao nhiêu sv? (10000 x số khóa)
+b/ <<không nhớ rõ nhưng khó nhất đề>>
+c/ Sử dụng bảng băm phân tán DHT, mạng đồng đẳng Chord. Tính số cập nhật khi 1 nút tạm dừng thoát.
+---> O(log(^2)n)
+
+- Bài 2:
+a/ Ví dụ Academic Life: Tính L(A) khi biết L(B), L(S)
+b/ Phân phối ổn định và ý nghĩa với Page Rank
+---> xem folder OnTap
+
+- Bài 3: Bloom Filter
+a/ Đưa ra cơ chế hoạt động của firewall để chặn dòng thác SYN tốt nhất
+---> (3 BF, lần 1 không cho qua, lần 2 cho qua với xs 1/n)
+b/ Phân tích ảnh hưởng tới máy client tốt
+
+- Bài 4: Cho biết thuật toán sắp xếp có thời gian tính toán tốt hơn thực sự so với Quick sort.
+a/ Cho biết các ràng buộc ban đầu của thuật toán này
+b/ Phân tích tốc độ của thuật toán
+---> Bucket Sort (xem Sách hoặc trong folder OnTap)
