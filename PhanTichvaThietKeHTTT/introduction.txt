@@ -1,0 +1,3 @@
+Ngày nay, nguồn tri thức đang không ngừng tăng thêm và 
+lượng thông tin của con người mở rộng một cách nhanh chóng, 
+kéo theo đó là nhu cầu đọc và tra cứu tài liệu của con người cũng tăng theo rõ rệt. Để đáp ứng nhu cầu đó, các hệ thống hỗ trợ người đọc, tiêu biểu như thư viện, cần được nâng cấp, sửa đổi và cải tiến. Trong khi đó, các hệ thống thông tin lại đang cho thấy rất nhiều ưu điểm. Trong bài này, chúng em xin trình bày về một hệ thống thông tin thư viện và quá trình xây dựng nó.
